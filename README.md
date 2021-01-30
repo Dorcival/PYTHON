@@ -1,2 +1,2 @@
 # PYTHON
- Exercicios em aula
+ Exercicios resolvidos de PYTHON 
